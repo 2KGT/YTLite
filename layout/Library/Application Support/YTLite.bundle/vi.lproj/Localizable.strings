@@ -1,12 +1,3 @@
-/* Patreon section */
-"SkipLogInAlert" = "Suppress login reminder";
-"Log-inViaPatreon" = "Log-in via Patreon";
-"ManageAccount" = "Manage account";
-"AccessDenied" = "Access denied";
-"LogOut" = "Log out";
-"LogOutTitle" = "Log out";
-"LogOutMessage" = "Are you sure you want to continue?";
-"FeaturesNotActivated" = "You are not logged in. To access YouTube Plus features, please log in with an active Patreon subscription.";
 
 /* Main section */
 "Main" = "Cài đặt chính";
@@ -530,24 +521,6 @@
 "SkipToSegment" = "Đến phần nổi bật";
 "Unskip" = "Hoàn tác";
 
-/* Discord RPC */
-"DiscordRPC" = "Discord RPC Integration";
-"EnableDiscordRPC" = "Enable Discord RPC";
-"EnableDiscordRPCDesc" = "Show what you're watching in your Discord status.";
-"RPC.OverlayButton" = "Show button in player overlay";
-"RPC.OverlayButtonDesc" = "Adds a Discord RPC toggle button to the video player overlay.";
-"RPC.DisableServerAlerts" = "Disable server reminders";
-"RPC.DisableServerAlertsDesc" = "Suppresses alerts when the desktop server is unreachable.";
-"RPC.Address" = "Server Address";
-"RPC.AddressDesc" = "Enter the address shown in the YouTube Plus RPC app on your desktop.";
-
-"RPC.Information" = "Server Configuration";
-"RPC.HowTo" = "How to set up (tutorial)";
-
-"RPC.MissingServerAddress" = "Please enter the server address in Discord RPC settings.";
-"RPC.LocalPermissionRequired" = "Local Network access is required. Please enable it in Settings → YouTube.";
-"RPC.DesktopServerRequired" = "Desktop server is not reachable. Make sure YouTube Plus RPC is running on your computer and both devices are on the same Wi-Fi network.";
-"RPC.OpenSettings" = "Open Settings";
 
 /* Sleep Timer */
 "SleepTimer.Message" = "What would you like to do?";
@@ -564,14 +537,6 @@
 
 /* Developer section */
 "Developer" = "Nhà phát triển";
-"FollowMe" = "Theo dõi tôi trên X";
-"SupportDevelopment" = "Hỗ trợ nhà phát triển";
-"DonateDesc" = "Mọi hỗ trợ của bạn đều có ý nghĩa rất lớn";
-"SupportDevelopmentDesc" = "Nếu bạn thích YTPlus và muốn đóng góp đôi chút vào quá trình phát triển, bạn có thể thực hiện bằng một trong các cách dưới đây.\nXin cảm ơn ❤";
-"VisitGithub" = "Kho lưu trữ Github";
-"VisitGithubDesc" = "Gắn sao repo, yêu cầu tính năng hoặc báo lỗi";
-"VisitTelegram" = "Kênh Telegram của tôi";
-"VisitTelegramDesc" = "Nhận thông tin về các bản cập nhật mới nhất";
 
 /* Credits section */
 "Credits" = "Ghi công";
